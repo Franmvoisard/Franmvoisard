@@ -1,14 +1,10 @@
 ## Name
 Franco Voisard 
-Hello, I’m @Franmvoisard, a Software Engineer and passionate game developer from Argentina.
 
-I have more than 7 years of experience across more than 17 projects.
 
-![](resources/Unity_Badge.png)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there! I'm @Franmvoisard, a Software Engineer with a passion for building great things. On my GitHub account, you'll find a variety of projects that showcase my skills in languages such as C#, C++, and Kotlin. I'm always looking for new opportunities to collaborate and learn, so don't hesitate to reach out!"
+
+I have more than 7 years of experience across more than 17 projects using Unity for videogames.
 
 <!---
 Franmvoisard/Franmvoisard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
